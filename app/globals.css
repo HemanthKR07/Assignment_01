@@ -1,0 +1,150 @@
+ @import url('https://fonts.googleapis.com/css2?family=Alegreya:ital@1&family=Amatic+SC:wght@700&family=Architects+Daughter&family=Belanosima&family=Bree+Serif&family=Caveat:wght@700&family=Chakra+Petch:wght@500&family=Courier+Prime&family=Dosis&family=Edu+TAS+Beginner:wght@700&family=Exo+2:wght@300&family=Fasthand&family=Fredericka+the+Great&family=Handjet:wght@300&family=Indie+Flower&family=Inter:wght@300&family=Kalam&family=Lugrasimo&family=Lumanosimo&family=Merienda:wght@500&family=Montserrat+Alternates&family=Montserrat:wght@200;300;400&family=Noto+Sans+Indic+Siyaq+Numbers&family=Nunito:wght@200&family=Pangolin&family=Poppins:wght@100&family=Rajdhani&family=Raleway:wght@300&family=Red+Hat+Display:wght@500&family=Rubik&family=Rubik+Scribble&family=Sacramento&family=Sarabun&family=Sedgwick+Ave+Display&family=Single+Day&family=Slabo+27px&family=Tajawal&family=Titillium+Web:wght@300&family=Ysabeau+Infant:wght@200&family=Ysabeau+SC:wght@300&family=Zeyada&display=swap');
+
+
+body{
+  background-color: #0A5783;
+  height:1250px;
+}
+
+.bg{
+  position: absolute;
+  margin-top:-20px;
+  margin-left:-10px;
+}
+
+.content{
+  position: absolute;
+}
+
+.t1{
+  font-family:Noto Sans Indic Siyaq Numbers;
+  color:white;
+  font-size:1.8cm;
+  word-spacing:7px;
+  margin-left:175px;
+  margin-top:6px;
+  letter-spacing:1.2px;
+}
+
+.t2{
+  font-family:poppins;
+  color:white;
+  font-weight:200;
+  font-size:25px;
+  margin-left:395px;
+  margin-top:-20px;
+}
+
+.button{
+  border:0px solid black;
+  border-radius:25px;
+  background-color:#FB7306;
+  width:170px;
+  height:40px;
+  margin-left:550px;
+  margin-top:-15px;
+  box-shadow: 5px 10px 8px 2px rgba(0, 0, 0, 0.3);
+}
+
+.t3{
+  font-family:Noto Sans Indic Siyaq Numbers;
+  font-size:20px;
+  color:white;
+  padding-top:2px;
+  padding-left:30px;
+}
+
+.blk1{
+  display:flex;
+  margin-top:33px;
+  margin-left:240px;
+}
+.t4{
+  margin-top:-3px;
+  margin-left:25px;
+  color:white;
+  font-size:19px;
+  letter-spacing:1px;
+  font-family:Noto Sans Indic Siyaq Numbers;
+}
+
+.tickblks{
+  margin-top:80px;
+  margin-left:-10px;
+  display:flex;
+}
+
+.mobimg{
+  margin-top:10px;
+  margin-left:470px;
+  position: absolute;
+}
+.miniblk{
+  margin-left:-110px;
+}
+
+.miniblk2{
+  margin-left:220px;
+}
+
+
+.tick2{
+  margin-left:-18px;
+}
+
+.line{
+  margin-top:38px;
+  margin-left:-245px;
+}
+
+.line2{
+  margin-top:38px;
+  margin-left:-175px;
+}
+
+.line3{
+  margin-left:-225px;
+}
+
+.line4{
+  margin-left:-152px;
+}
+
+.t5{
+  font-family:Noto Sans Indic Siyaq Numbers;
+  color:white;
+  font-size:1.2cm;
+  letter-spacing:1px;
+  word-spacing:4px;
+  margin-top:240px;
+  margin-left:475px;
+}
+
+.pic6{
+  margin-top:-70px;
+  margin-left:200px;
+}
+
+.texts{
+  display:flex;
+}
+.ans{
+  text-align: center;;
+  color:white;
+  font-family:poppins;
+  margin-left:230px;
+  margin-top:-20px;
+  font-size:.47cm;
+  letter-spacing:1px;
+}
+
+.ans2{
+  margin-left:215px;
+}
+.ans3{
+  margin-left:195px;
+}
+
+.btn2{
+  margin-top:40px;
+}
